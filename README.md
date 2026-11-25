@@ -110,7 +110,7 @@ and is not publicly distributed.
 Ginseng is currently free to use and is distributed
 under a proprietary software license.
 
-See the [LICENSE](LICENSE) file for the full terms
+See the [LICENSE](LICENSE.md) file for the full terms
 and conditions.
 
 Copyright © 2026 byiki.exe. All rights reserved.
